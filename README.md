@@ -6,7 +6,7 @@ Currently this version lets you create a animation using [NetPBM](https://en.wik
 THE CODE IS ONLY TESTED ON MACOS SO FAR!
 
 ## Requirements
-To install on MacOS using brew.
+To install on MacOS using [homebrew](https://brew.sh).
 
 - ImageMagick
 ```bash
