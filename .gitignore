@@ -4,6 +4,10 @@
 .idea
 .vscode
 
+# binaries
+gol
+sdl_gol
+
 # bitmaps
 pbm
 *.pbm

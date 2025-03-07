@@ -3,8 +3,8 @@ LDFLAGS = `sdl2-config --libs`
 
 ARGS =  200    # width
 ARGS += 200    # height
-ARGS += 0.1    # density
-ARGS += 10     # iteration steps
+ARGS += 0.2    # density
+ARGS += 50     # iteration steps
 ARGS += random # array initializing
 
 DELAY = 20
