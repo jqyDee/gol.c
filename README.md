@@ -1,7 +1,7 @@
 # gol.c
-This is an implementation of [Conways game of life][https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life] written in C.
+This is an implementation of [Conways game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) written in C.
 
-Currently this version lets you create a animation using [NetPBM][https://en.wikipedia.org/wiki/Netpbm] bitmaps and [ImageMagick][https://en.wikipedia.org/wiki/ImageMagick] to sonvert the bitmaps into a gif.
+Currently this version lets you create a animation using [NetPBM](https://en.wikipedia.org/wiki/Netpbm) bitmaps and [ImageMagick](https://en.wikipedia.org/wiki/ImageMagick) to convert the bitmaps into a gif.
 
 THE CODE IS ONLY TESTED ON MACOS SO FAR!
 
