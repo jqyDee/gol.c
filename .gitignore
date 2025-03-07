@@ -8,6 +8,7 @@
 pbm
 *.pbm
 *.gif
+!assets/gol.gif
 
 # debug symbols
 *.dSYM

@@ -49,4 +49,6 @@ convert
 convert -filter point -resize 300%x300% -delay $(DELAY) ./pbm/gol_*.pbm gol.gif
 ```
 
+## Example
+![gol.gif](./assets/gol.gif)
 
