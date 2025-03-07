@@ -1,0 +1,17 @@
+# dotdirs
+.cache
+.DS_Store
+.idea
+.vscode
+
+# bitmaps
+pbm
+*.pbm
+*.gif
+
+# debug symbols
+*.dSYM
+
+# compile commands
+compile_commands.json
+
