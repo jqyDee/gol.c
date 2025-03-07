@@ -5,6 +5,8 @@ Currently this version lets you create a animation using [NetPBM](https://en.wik
 
 THE CODE IS ONLY TESTED ON MACOS SO FAR!
 
+![gol.gif](./assets/gol.gif)
+
 ## Requirements
 To install on MacOS using [homebrew](https://brew.sh).
 
@@ -48,7 +50,4 @@ make
 convert
 convert -filter point -resize 300%x300% -delay $(DELAY) ./pbm/gol_*.pbm gol.gif
 ```
-
-## Example
-![gol.gif](./assets/gol.gif)
 
